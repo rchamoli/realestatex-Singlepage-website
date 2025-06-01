@@ -1,0 +1,4 @@
+# React frontend ignores
+node_modules/
+.env
+dist/
